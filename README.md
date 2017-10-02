@@ -8,4 +8,4 @@ leverage an open problem-solving community.
 
 ## Contributing
 
-Please read the CONTRIBUTING.md guide for proposing a new specifications
+Thank you for your interest! Please read the CONTRIBUTING.md guide before for contributing.
